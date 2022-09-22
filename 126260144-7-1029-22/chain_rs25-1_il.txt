@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-26062020-066816";"";
+"REFERENCE";"RS25-1";"";
+"TraceParts.PartTitle";"ANSI G8 single strand";"";
+"TraceParts.InstanceId";"33-26062020-066816E9DO5VNNEPSBU9CC4QZYT6UWF";"";
+"DESIGN";"Roller chain ANSI G8, RS25-1, pitch 6.35 mm (1/4""), single strand, inner link";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"TSUBAKI";"";
+"TraceParts.PartVersion";"1.1.7";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TSUBAKI:33-26062020-066816";"";
